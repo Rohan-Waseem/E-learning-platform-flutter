@@ -43,7 +43,7 @@
 
 ## 📽️ Demo Preview
 
-[![Watch the demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=MuZzoP4tkKo&list=PL460ZDb1xew9G3omqXxsFtPvnewLGcogZ&index=3)
 
 ## 🧪 Planned Enhancements
 
